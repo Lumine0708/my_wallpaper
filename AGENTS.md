@@ -86,7 +86,7 @@
 
 | 文档 | 用途 |
 |---|---|
-| `docs/README.md` | 项目文档索引；原根 README 正文拆分至 `docs/`，根 README 暂只保留标题 |
+| `docs/README.md` | 详细项目文档索引；项目入口、下载和开源信息见根 README |
 | `source/tablet-live-wallpaper/README.md` | Android 工程入口和基础命令 |
 | `docs/wallpaper-configuration-model-v1.md` | v1 产品、schema、URI 权限、播放和验收契约 |
 | `docs/development.md` | 构建和模拟器开发入口 |
