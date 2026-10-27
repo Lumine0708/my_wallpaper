@@ -71,6 +71,8 @@ v1.1.0 已通过本地单元测试和 Lint，并在 API 35 模拟器完成设备
 
 欢迎通过 [Issues](https://github.com/Lumine0708/my_wallpaper/issues) 反馈问题，或提交 Pull Request。修改前请阅读 [AGENTS.md](AGENTS.md) 及其中列出的开发和验证规则，保持改动与当前需求相关。
 
+作者不承诺及时更新或长期维护。
+
 ## 许可证与素材
 
 项目代码采用 [MIT License](LICENSE)。
