@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">平板动态壁纸</string>
+    <string name="wallpaper_name">平板适配壁纸</string>
+    <string name="wallpaper_description">适配平板横竖屏的动态壁纸</string>
+    <string name="hero_eyebrow">TABLET WALLPAPER STUDIO</string>
+    <string name="hero_title">横竖屏，各有自己的画面</string>
+    <string name="hero_subtitle">分别管理两个方向的图片队列与轮播节奏，同时只接管主屏幕。</string>
+    <string name="direction_section_title">编辑方向</string>
+    <string name="direction_section_hint">切换方向不会覆盖另一套配置；未保存的修改会保留在草稿中。</string>
+    <string name="portrait">竖屏</string>
+    <string name="landscape">横屏</string>
+    <string name="playback_section_title">轮播设置</string>
+    <string name="playback_section_hint">添加图片后，可调整播放顺序与每次切换的间隔。</string>
+    <string name="add_images">添加图片</string>
+    <string name="toggle_order">切换顺序 / 随机播放</string>
+    <string name="order_sequential">顺序播放</string>
+    <string name="order_shuffle">随机播放</string>
+    <string name="set_interval">设置切换间隔</string>
+    <string name="interval_button">每 %1$d 秒切换</string>
+    <string name="interval_title">切换间隔</string>
+    <string name="view_import_errors">查看导入错误</string>
+    <string name="images_section_title">图片队列</string>
+    <string name="images_section_hint">顺序播放时会从上到下轮播，也可以随时重新排序。</string>
+    <string name="images_empty_title">还没有图片</string>
+    <string name="images_empty_hint">点击“添加图片”，为当前方向建立第一组壁纸。</string>
+    <string name="config_readonly_title">当前配置只读</string>
+    <string name="config_readonly_hint">当前版本无法编辑这份配置。</string>
+    <string name="config_corrupt_title">配置需要修复</string>
+    <string name="config_corrupt_hint">配置文件已损坏，请先使用下方的重置按钮。</string>
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="reset_corrupt">重置损坏的配置</string>
+    <string name="apply_section_title">准备应用到桌面？</string>
+    <string name="apply_section_hint">应用会打开系统壁纸预览。若系统提供目标选择，请只选择“主屏幕”。</string>
+    <string name="open_wallpaper_picker">选择动态壁纸</string>
+    <string name="move_up">上移</string>
+    <string name="move_down">下移</string>
+    <string name="remove_image">移除</string>
+    <string name="choose_image">选择图片</string>
+    <string name="set_wallpaper">设置动态壁纸</string>
+    <string name="clear_image">清除图片</string>
+    <string name="next_rotation_image">下一张轮换图片</string>
+    <string name="rotation_status">竖屏轮换：%1$d 张图片，每 %2$d 秒切换</string>
+    <string name="status_ready">图片已就绪</string>
+    <string name="status_missing">未选择图片</string>
+</resources>

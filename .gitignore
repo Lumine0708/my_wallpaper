@@ -1,0 +1,17 @@
+*.apk
+*.apk.*
+.DS_Store
+source/tablet-live-wallpaper/build/
+.gradle/
+.idea/
+*.iml
+local.properties
+source/tablet-live-wallpaper/app/build/
+source/tablet-live-wallpaper/captures/
+source/tablet-live-wallpaper/.externalNativeBuild/
+source/tablet-live-wallpaper/.cxx/
+*.keystore
+*.jks
+*.p12
+*.pem
+outputs/
